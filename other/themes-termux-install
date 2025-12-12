@@ -1,2 +1,3 @@
 #!/bin/bash
 curl -L -o ~/.termux/colors.properties https://github.com/ginh34/.files/raw/refs/heads/main/other/themes-termux
+termux-reload-settings
